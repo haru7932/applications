@@ -18,9 +18,9 @@ local redzlib = {
             }),
             ["Color Hub 2"] = Color3.fromRGB(15, 2, 35),                          -- Roxo quase preto (fundo)
             ["Color Stroke"] = Color3.fromRGB(100, 20, 255),                      -- O seu Roxo Neon principal
-            ["Color Theme"] = Color3.fromRGB(130, 40, 255),                       -- Roxo principal ligeiramente mais claro
-            ["Color Text"] = Color3.fromRGB(220, 190, 255),                       -- Lilás bem claro (ótimo contraste)
-            ["Color Dark Text"] = Color3.fromRGB(100, 20, 255),                   -- O seu Roxo Neon para textos destacados
+            ["Color Theme"] = Color3.fromRGB(100, 20, 255),                       -- Roxo principal ligeiramente mais claro
+            ["Color Text"] = Color3.fromRGB(255, 255, 255),                       -- Lilás bem claro (ótimo contraste)
+            ["Color Dark Text"] = Color3.fromRGB(255, 255, 255),                   -- O seu Roxo Neon para textos destacados
             ["Color Element"] = Color3.fromRGB(25, 4, 50),                        -- Roxo profundo para elementos de UI
             ["Color Element Stroke"] = Color3.fromRGB(100, 20, 255)               -- O seu Roxo Neon
        }
